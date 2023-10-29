@@ -1,1 +1,31 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: orange;
+}
+h3 {
+    color:cadetblue;
+}
+h3 {
+    color: powderblue;
+    font-style: italic;
+}
+.sovi {
+    color: crimson;
+    font-style: bold;
+}
+#sowi {
+    color: lime;
+    background-color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+.soyi {
+    color: crimson !important;
+    font-style: bold !important;
+    background-color: yellowgreen !important;   
+}
